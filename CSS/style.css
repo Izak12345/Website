@@ -1,0 +1,46 @@
+body {
+
+  /* The image used */
+  background-image: url("/images/nba 2k.gif");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* HEADER */
+#icon{
+  width: 20%;
+  float: left;
+}
+
+.jumbotron {
+  opacity: 0.8;
+}
+
+/*CONTAINER */
+
+/* NAV */
+.border {
+ 
+ border-left: 6px solid black;
+}
+
+.active {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+
+}
+
+li a:hover {
+  background-color: ghostwhite;
+  border-radius: 10px;
+}
+/*CONTENT */
+
+/* FOOTER */
